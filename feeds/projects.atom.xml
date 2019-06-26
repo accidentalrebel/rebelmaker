@@ -4,6 +4,8 @@
 &lt;p&gt;This project is for makers who want to have a 3D printer but don't have the money to buy one.&lt;/p&gt;
 &lt;p&gt;See it in action &lt;a href="https://www.youtube.com/watch?v=kIOvm-SkkvU"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Mini 3D Printer" src="https://www.rebelmaker.me/images/threedee-01.jpg"&gt;&lt;/p&gt;
+&lt;h2&gt;Progress Log&lt;/h2&gt;
+&lt;p&gt;I've logged my progress while working on this on &lt;a href="https://hackaday.io/project/164828/logs"&gt;my hackaday.io page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;3D Printer Details&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;40x40x40mm Print Bed Size&lt;/li&gt;
@@ -29,4 +31,4 @@
 &lt;li&gt;&lt;strong&gt;&lt;a href="https://www.instructables.com/id/Curiosity-120-eWaste-Educational-3D-Printer/"&gt;Curiosity 80$ EWaste Educational 3D Printer&lt;/a&gt;&lt;/strong&gt; - Similar to the EWaste 60$ Printer, this one is more detailed and easier to follow. as it is also targeted towards younger aspiring makers.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href="https://www.youtube.com/playlist?list=PLR_uBmEO0FF_MARVyJbOaSHVg-cq7h78J"&gt;Joe Clinton's Project Log Playlist&lt;/a&gt;&lt;/strong&gt; - A video playlist of a 3D printer from start to finish based on the Curiosity 3D printer. Starts with testing the circuits first before mounting the drives. It's a nice glimpse of what pitfalls to expect and avoid throughout the project.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href="https://www.reprap.org/mediawiki/images/0/06/RAMPS_dossier.pdf"&gt;RAMPS 1.4 Assembly Guide&lt;/a&gt;&lt;/strong&gt; - Simple guide on how to assemble your RAMPS 1.4 board. This is crucial as some purchased boards may require some assembly.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="3d printing"></category><category term="project"></category><category term="hardware"></category></entry></feed>
+&lt;/ul&gt;</content><category term="3d printing"></category></entry></feed>
